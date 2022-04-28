@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "subject": "aaaaa",
+      "description": "",
+      "status": 1,
+      "dateOverdue": "",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "subject": "teste",
+      "description": "teste",
+      "status": 3,
+      "dateOverdue": "2022-04-12",
+      "userId": 2,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "lorena",
+      "email": "teste@teste.com.br",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 1
+    }
+  ]
+}
